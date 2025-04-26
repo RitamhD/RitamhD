@@ -1,5 +1,5 @@
-# Hi👋 I'm Ritam
-```Python developer and AI enthusiast```
+# Hi there 👋
+```I'm a Python developer and AI enthusiast```
 
 ## Languages and Tools I Use 
 
