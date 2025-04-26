@@ -1,25 +1,25 @@
 <h1>Hi👋 I'm Ritam </h1>
 <p>Python developer and AI enthusiast</p>
 
-> 🚀 Languages and Tools I Use
+<h2> 🚀 Languages and Tools I Use </h2>
 
 <!-- Programming Languages Section -->
 <div style="display: flex; gap: 10px;">
-  <sup>Programming Languages</sup>
+  > Languages 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" />
 </div>
 
 <!-- Deep Learning Section -->
-<h3>Deep Learning</h3>
 <div style="display: flex; gap: 10px;">
+  > Libraries 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="pytorch" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="50" height="50" />
 </div>
 
 <!-- Development Section -->
-<h3>Development</h3>
 <div style="display: flex; gap: 10px;">
+  > Development
   <img src="flask-svgrepo-com.svg" alt="flask" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="fastapi" width="50" height="50" />
   <img src="langchain.png" alt="langchain" width="50" height="50" />
@@ -28,22 +28,22 @@
 </div>
 
 <!-- Database Section -->
-<h3>Database</h3>
 <div style="display: flex; gap: 10px;">
+  > Database 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" height="50" width="50" />
 </div>
 
 <!-- Data Scraping Section -->
-<h3>Data Scraping</h3>
 <div style="display: flex; gap: 10px;">
+  > Data Scraping
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="selenium" width="50" height="50"/>
 </div>
 
 <!-- Deployment Section -->
-<h3>Deployment</h3>
 <div style="display: flex; gap: 10px;">
+  > Deployment
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50" />
 </div>
 
