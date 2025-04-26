@@ -1,7 +1,7 @@
 <h1>Hi👋 I'm Ritam </h1>
 <p>Python developer and AI enthusiast</p>
 
-<h2>🚀 Languages and Tools I Use</h2>
+> 🚀 Languages and Tools I Use
 
 <!-- Programming Languages Section -->
 <div style="display: flex; gap: 10px;">
