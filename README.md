@@ -43,7 +43,7 @@
 ## Projects
 <p>I have worked on several full-stack and MLOps projects:</p>
 <ol>
-  <li><strong>Infoledge</strong>: A roadmap and course recommendation platform with integrated features like Coding and Chatbots. <a href="https://github.com/RitamhD/Infoledge" target="_blank">Visit</a></li>
+  <li><strong>Infoledge</strong>: A roadmap and course recommendation platform with integrated features like Coding and Chatbots. <a href="https://github.com/RitamhD/Infoledge" target="_blank">GitHub</a></li>
   <li><strong>Finetuning LLMs</strong>: Finetuning LLMs to solve Leetcode problems in 2025. <em>[in progress]</em></li>
   <li><strong>Personal AI Assistant</strong>: Using Ollama and Huggingface endpoints with Langchain to develop an assistant capable of answering & reasoning queries (dynamic and real-time) with speech recognition.
       <br><em>Future considerations: <code>Integrating Agents to automate with real-life tasks</code></em> <em>[in progress]</em>
