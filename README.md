@@ -20,7 +20,7 @@
 </div>
 
 <!-- Development Section -->
-  > Development
+  > Backend
 <div>
   <img src="flask-svgrepo-com.svg" alt="flask" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="fastapi" width="50" height="50" />
