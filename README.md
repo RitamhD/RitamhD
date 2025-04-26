@@ -5,7 +5,7 @@
 
 <!-- Programming Languages Section -->
 <div style="display: flex; gap: 10px;">
-  <h3>Programming Languages</h3>
+  <span>Programming Languages</span>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" />
 </div>
