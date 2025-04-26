@@ -64,6 +64,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=RitamhD&show_icons=true&locale=en" alt="RitamhD" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RitamhD&" alt="RitamhD" /></p>
 
-<p>Feel free to reach out to me if you have any questions or if you want to discuss something. You can contact me at email <h3><i>hatiritma03@gmail.com</i></h3></p>
+<p>Feel free to reach out to me if you have any questions or if you want to discuss something. You can contact me at email <h3><i>hatiritam03@gmail.com</i></h3></p>
 
 <p>Thank you for visiting my profile!</p>
