@@ -15,6 +15,8 @@
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="pytorch" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="selenium" width="50" height="50" />
 </div>
 
 <!-- Development Section -->
@@ -32,13 +34,6 @@
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" height="50" width="50" />
-</div>
-
-<!-- Data Scraping Section -->
-  > Data Scraping
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="selenium" width="50" height="50"/>
 </div>
 
 <!-- Deployment Section -->
