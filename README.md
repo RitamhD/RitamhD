@@ -54,11 +54,7 @@
 
 ## Contact Me
 <h3>👉 <a href="https://ritam-myportfolio.netlify.app/" target="_blank">Portfolio</a></h3>
-
 <p><a target="_blank" href="https://www.linkedin.com/in/ritam-kumar-hati-aa3021254" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+Email- hatiritam03@gmail.com
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=RitamhD&show_icons=true&locale=en" alt="RitamhD" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RitamhD&" alt="RitamhD" /></p>
-
-<p>Feel free to reach out to me if you have any questions or if you want to discuss something. You can contact me at email <h3><i>hatiritam03@gmail.com</i></h3></p>
-
-<p>Thank you for visiting my profile!</p>
