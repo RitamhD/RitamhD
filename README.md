@@ -4,8 +4,8 @@
 <h2>🚀 Languages and Tools I Use</h2>
 
 <!-- Programming Languages Section -->
-<h3>Programming Languages</h3>
 <div style="display: flex; gap: 10px;">
+  <h3>Programming Languages</h3>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" />
 </div>
