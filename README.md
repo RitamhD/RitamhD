@@ -1,7 +1,7 @@
-<h1>Hi👋 I'm Ritam </h1>
-<p>Python developer and AI enthusiast</p>
+# Hi👋 I'm Ritam
+```Python developer and AI enthusiast```
 
-<h2> 🚀 Languages and Tools I Use </h2>
+## Languages and Tools I Use 
 
 <!-- Programming Languages Section -->
   > Languages
@@ -42,7 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50" />
 </div>
 
-<h2>Projects</h2>
+## Projects
 <p>I have worked on several full-stack and MLOps projects:</p>
 <ol>
   <li><strong>Infoledge</strong>: A roadmap and course recommendation platform with integrated features like Coding and Chatbots. <a href="https://github.com/RitamhD/Infoledge" target="_blank">Visit</a></li>
@@ -52,7 +52,7 @@
   </li>
 </ol>
 
-<h2>⚡️ Contact Me</h2>
+## Contact Me
 <h3>👉 <a href="https://ritam-myportfolio.netlify.app/" target="_blank">Portfolio</a></h3>
 
 <p><a target="_blank" href="https://www.linkedin.com/in/ritam-kumar-hati-aa3021254" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
