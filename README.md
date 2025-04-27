@@ -46,6 +46,7 @@
 <br>
 
 ## Projects
+```
 <p>I have worked on several full-stack and MLOps projects:</p>
 <ol>
   <li><strong>Infoledge</strong>: A roadmap and course recommendation platform with integrated features like Coding and Chatbots. <a href="https://github.com/RitamhD/Infoledge" target="_blank">GitHub</a></li>
@@ -54,6 +55,7 @@
       <br><em>Future considerations: <code>Integrating Agents to automate with real-life tasks</code></em> <em>[in progress]</em>
   </li>
 </ol>
+```
 
 ## Contact Me
 <h3>👉 <a href="https://ritam-myportfolio.netlify.app/" target="_blank">Portfolio</a></h3>
