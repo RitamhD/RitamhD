@@ -4,7 +4,7 @@
 ## Languages and Tools I Use 
 
 <!-- Programming Languages Section -->
- <code style="color : aqua"> Languages </code> 
+ <code style="color : aqua">Languages</code> 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" />
@@ -12,7 +12,7 @@
 <br>
 
 <!-- Deep Learning Section -->
-  > Libraries
+  <code style="color : aqua">Libraries</code> 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="pytorch" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="50" height="50" />
@@ -22,7 +22,7 @@
 <br>
 
 <!-- Development Section -->
-  > Backend
+<code style="color : aqua">Backend</code> 
 <div>
   <img src="flask-svgrepo-com.svg" alt="flask" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="fastapi" width="50" height="50" />
@@ -31,7 +31,7 @@
 <br>
 
 <!-- Database Section -->
-  > Database
+<code style="color : aqua">Database</code>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" height="50" width="50" />
@@ -39,7 +39,7 @@
 <br>
 
 <!-- Deployment Section -->
-  > Deployment
+<code style="color : aqua">Deployment</code>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50" />
 </div>
