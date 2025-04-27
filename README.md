@@ -4,8 +4,8 @@
 ## Languages and Tools I Use 
 
 <!-- Programming Languages Section -->
+<p style="color: lightblue;">Languages</p>
 <div>
-  $${\color{lightblue}Languages}$$ 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" />
 </div>
