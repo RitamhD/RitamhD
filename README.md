@@ -10,6 +10,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" />
 </div>
 <br>
+
 <!-- Deep Learning Section -->
   > Libraries
 <div>
@@ -19,6 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="selenium" width="50" height="50" />
 </div>
 <br>
+
 <!-- Development Section -->
   > Backend
 <div>
@@ -27,6 +29,7 @@
   <img src="langchain.png" alt="langchain" width="50" height="50" />
 </div>
 <br>
+
 <!-- Database Section -->
   > Database
 <div>
@@ -34,12 +37,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" height="50" width="50" />
 </div>
 <br>
+
 <!-- Deployment Section -->
   > Deployment
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50" />
 </div>
 <br>
+
 ## Projects
 <p>I have worked on several full-stack and MLOps projects:</p>
 <ol>
