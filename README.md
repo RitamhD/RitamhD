@@ -4,7 +4,7 @@
 ## Languages and Tools I Use 
 
 <!-- Programming Languages Section -->
-<code style="color : aqua">Languages</code> 
+<code style="color: aqua; font-family: 'Courier New', monospace; font-size: 1.2em; background-color: black; padding: 0.2em 0.4em;">Libraries</code>
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" />
