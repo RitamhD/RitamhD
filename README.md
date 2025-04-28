@@ -2,11 +2,8 @@
 ```I'm a Python developer and AI enthusiast```
 
 ## Languages and Tools I Use 
-
-<!-- ![alt Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) -->
-
 <!-- Programming Languages Section -->
-### Languages <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="python" width="50" height="50" />
+> Languages <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="python" width="50" height="50" />
 <br>
 
 <!-- Deep Learning Section -->
