@@ -7,19 +7,19 @@
 <br><br>
 
 <!-- Deep Learning Section -->
-<code>Libraries</code>&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="pytorch" width="50" height="50" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="50" height="50" />&nbsp;&nbsp;<img src="https://devicon-website.vercel.app/api/pandas/original-wordmark.svg?color=%23FFFFFF" alt="pandas" width="50" height="50"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="selenium" width="50" height="50" />
+> Libraries&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="pytorch" width="50" height="50" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="50" height="50" />&nbsp;&nbsp;<img src="https://devicon-website.vercel.app/api/pandas/original-wordmark.svg?color=%23FFFFFF" alt="pandas" width="50" height="50"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="selenium" width="50" height="50" />
 <br><br>
 
 <!-- Development Section -->
-<code>Backend</code>&nbsp;&nbsp;&nbsp;<img src="flask-svgrepo-com.svg" alt="flask" width="50" height="50" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="fastapi" width="50" height="50" />&nbsp;&nbsp;<img src="langchain.png" alt="langchain" width="50" height="50" />
+> Backend&nbsp;&nbsp;&nbsp;<img src="flask-svgrepo-com.svg" alt="flask" width="50" height="50" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="fastapi" width="50" height="50" />&nbsp;&nbsp;<img src="langchain.png" alt="langchain" width="50" height="50" />
 <br><br>
 
 <!-- Database Section -->
-<code>Database</code>&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" height="50" width="50" />
+> Database&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" height="50" width="50" />
 <br><br>
 
 <!-- Deployment Section -->
-<code>Deployment</code>&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50" />
+> Deployment&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50" />
 <br><br>
 
 ## Projects
