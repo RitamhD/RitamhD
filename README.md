@@ -3,7 +3,7 @@
 
 ## Languages and Tools I Use 
 <!-- Programming Languages Section -->
-> Languages &nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="python" width="50" height="50" />
+> <h3><strong>Languages</strong></h3>&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="python" width="50" height="50" />
 <br>
 
 <!-- Deep Learning Section -->
