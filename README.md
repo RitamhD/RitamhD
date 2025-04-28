@@ -1,6 +1,6 @@
 # Hi there 👋
-```I'm a Python developer and AI enthusiast```
-
+** ```I'm a Python developer and AI enthusiast``` **
+<br>
 ## Languages and Tools I Use 
 <!-- Programming Languages Section -->
 <code>Languages</code>&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="python" width="50" height="50" />
