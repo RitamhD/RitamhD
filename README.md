@@ -11,7 +11,7 @@
 <br><br>
 
 <!-- Development Section -->
-<code>Backend</code>&nbsp;&nbsp;&nbsp;<img src="flask-svgrepo-com.svg" alt="flask" width="50" height="50" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="fastapi" width="50" height="50" />&nbsp;<img src="langchain.png" alt="langchain" width="50" height="50" />
+<code>Backend</code>&nbsp;&nbsp;&nbsp;<img src="flask-svgrepo-com.svg" alt="flask" width="50" height="50" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="fastapi" width="50" height="50" />&nbsp;&nbsp;<img src="langchain.png" alt="langchain" width="50" height="50" />
 <br><br>
 
 <!-- Database Section -->
