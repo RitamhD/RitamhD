@@ -7,7 +7,7 @@
 <br><br>
 
 <!-- Deep Learning Section -->
-<code>Libraries</code>&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="pytorch" width="50" height="50" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="50" height="50" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="50" height="50" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="selenium" width="50" height="50" />
+<code>Libraries</code>&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="pytorch" width="50" height="50" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="50" height="50" />&nbsp;<i class="devicon-pandas-plain-wordmark" alt="pandas" width="50" height="50"></i>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="selenium" width="50" height="50" />
 <br><br>
 
 <!-- Development Section -->
