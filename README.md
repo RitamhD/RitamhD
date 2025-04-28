@@ -6,11 +6,11 @@
 <!-- ![alt Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) -->
 
 <!-- Programming Languages Section -->
-<code style="color: aqua">Languages</code>
-<!-- <div> -->
+<div>
+  <h3 style="color: aqua">Languages</h3>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" />
-<!-- </div> -->
+</div>
 <br>
 
 <!-- Deep Learning Section -->
