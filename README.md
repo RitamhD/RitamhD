@@ -6,11 +6,10 @@
 <!-- ![alt Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) -->
 
 <!-- Programming Languages Section -->
-<div>
-  <h3 style="color: aqua; display: inline-block; margin-right: 10px;">Languages</h3>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" />
-</div>
+### Languages
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+
 <br>
 
 <!-- Deep Learning Section -->
