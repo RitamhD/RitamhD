@@ -6,8 +6,8 @@
 <!-- ![alt Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) -->
 
 <!-- Programming Languages Section -->
-<div style="display: flex; align-items: center; gap: 10px;">
-  <h3 style="color: aqua">Languages</h3>
+<div>
+  <h3 style="color: aqua; display: inline-block; margin-right: 10px;">Languages</h3>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" />
 </div>
