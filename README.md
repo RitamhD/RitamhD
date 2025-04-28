@@ -3,6 +3,8 @@
 
 ## Languages and Tools I Use 
 
+![alt Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+
 <!-- Programming Languages Section -->
 <code style="color: aqua">Languages</code>
 <div>
